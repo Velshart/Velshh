@@ -1,4 +1,4 @@
-<h3 align="center">Self-taught developer from Poland!</h3>
+<h3 align="center">Self-taught programmer from Poland!</h3>
 
 - 📫 Contact me! **Discord: Velsh#3939**
 
